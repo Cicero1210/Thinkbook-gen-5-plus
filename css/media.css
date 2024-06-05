@@ -4,7 +4,7 @@ div#tv-caixa {
     width: 810px;
     height: 590px;
     margin: auto;
-    background: url(../_imagens/tv-caixa2.jpeg  ) no-repeat;
+    background: url(../imagens/tv-caixa2.jpeg  ) no-repeat;
 }
 audio#musica {
     display: block;
