@@ -23,7 +23,7 @@ a {
 .cabecalho {
     border-bottom: 1px #606060 solid;
     height: 150px;
-    background: url(../_imagens/pngegg.png) no-repeat 0px 55px;
+    background: url(../imagens/pngegg.png) no-repeat 0px 55px;
 }
 .cabecalho #icone {
     position: absolute;
